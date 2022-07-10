@@ -6,8 +6,8 @@
         "Doodstream",
         "shortner"
     ],
-    "website": "https://github.com/Amul-jat/Doodstreambot",
-    "repository": "https://github.com/Amul-jat/Doodstreambot",
+    "website": "https://github.com/akulagigalau4/doodstreambot",
+    "repository": "https://github.com/akulagigalau4/doodstreambot",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token (must add)",
